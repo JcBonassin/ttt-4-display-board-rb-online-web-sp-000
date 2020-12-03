@@ -6,9 +6,9 @@ def display_board
    puts "   |   |   "
   end
 def display_board
-     puts "   |   |   "
+     puts "   |   | x  "
      puts "-----------"
      puts "   | x |   "
      puts "-----------"
-     puts "   |   |   "
+     puts "  x |   |   "
    end

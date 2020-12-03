@@ -11,4 +11,4 @@ def display_board
      puts "   | x |   "
      puts "-----------"
      puts "   |   |   "
-    end
+   end

@@ -5,7 +5,7 @@ def display_board
  puts "-----------"
  puts "   |   |   "
 end
-def display_board
+def display_board(x)
 puts "   |   |   "
 puts "-----------"
 puts "   | #{@board[4]}  |   "
